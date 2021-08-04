@@ -28,7 +28,7 @@ Hi, I'm Hanszdays, just a child who wants to learn from Indonesia🇮🇩.
 
 - 🌱 I’m currently learning C++
 
-- 👨🏻‍💻 I'm looking for a mentor to teach me, contact me on my telegram[my-telegram](https://telegram.me/SI_NOLEP)
+- 👨🏻‍💻 I'm looking for a mentor to teach me, contact me on my telegram [my-telegram](https://telegram.me/SI_NOLEP)
 
 - 💬 Ask me about anything [here](https://github.com/hanszdays/hanszdays/issues)
 
